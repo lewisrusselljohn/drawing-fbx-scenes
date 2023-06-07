@@ -6,4 +6,4 @@ Likely to go through a lot of refactoring as I try to figure out the nicest way 
 
 Features I aim to implement:
 - Animations stored in VAOs
-- Mesh/Texture pairing (specify in a XML the name of the mesh and the texture it's drawn with)
+- Mesh/Texture pairing
